@@ -21,5 +21,7 @@ Para mudar o tempo a cada clique é so mudar:
 ```
 
 Agora, Execute e o programa clicará a cada 15 Seg no mesmo pixel.
-
+```bash
+  python autoclick.py 
+```
 Fique a vontada para copiar, melhorar ou incrementar o código (>‿◠)✌
